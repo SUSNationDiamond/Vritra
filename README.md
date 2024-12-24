@@ -32,10 +32,7 @@ Vritra is a potent and versatile bot that operates as a Remote Access Trojan (RA
 - Enter the Bot Token and Server ID.
 - Send the generated EXE file to the target PC.
 ---
-## Contact me
 
-- Discord - [@shell.code](https://www.discordapp.com/users/997458265686429726)
-- Join my Discord server- https://www.dsc.gg/pwnhub
 
 
 ## Note
